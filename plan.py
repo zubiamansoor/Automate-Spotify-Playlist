@@ -34,4 +34,7 @@ class CreatePlaylist:
 
 # 1. Youtube API
 # 2. Spotify Web API
+    # a. Fill your spotify details in the file spotify_info.py
+    # b. Navigate to the Spotify console at: https://developer.spotify.com/console/
+    # c. Under Playlists, go to Create a Playlist
 # 3. Youtube-dl library
